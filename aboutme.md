@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My Research interests 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Latifa ERRAMI I a PhD student at Mohammed VI Polytechnic University College of Computing. 
+My research is centred around Distributed ML algorithms, my aim is to build algorithms  that mitigate any performance or safety challenges that face Distributed ML either due to data heterogeneity or Byzantine behavior.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
