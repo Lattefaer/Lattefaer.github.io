@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: My Research interests 
+title: Latifa Errami
+subtitle: Short Bio
 ---
 
 I a am a PhD student at Mohammed VI Polytechnic University College of Computing. 
