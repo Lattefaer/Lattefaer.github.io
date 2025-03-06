@@ -25,6 +25,8 @@ Twenty-Ninth AAAI/SIGAI Doctoral Consortium, AAAI-2024 (Vancouver, Canada). [Pos
 
 - **Leveraging Gradient Noise to Defend Against Byzantine Attacks**  
   The TruwtworthyAI Workshop in IJCAI 2024, (Jeju South Korea).
+- **The Pitfalls of Mixing Gradient in the Byzantine Heterogenous Setting**  
+   The 19 WIML Workshop in NeurIPS 2023 (Vancouver, Canada). [Poster](#)
 
 
 
